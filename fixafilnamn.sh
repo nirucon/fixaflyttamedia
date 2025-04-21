@@ -166,4 +166,4 @@ while true; do
     echo
 done
 
-echo "👋 Avslutar. Tack för att du använder rename_media.sh!"
+echo "👋 Avslutar."
