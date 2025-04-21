@@ -1,2 +1,2 @@
-# organize-photos
-Script to organize photos
+# fixafotofilm
+Script to organize photos (in swedish)
